@@ -1,7 +1,8 @@
 # TheEvilMachine-PS4-and-PC-Unity-Lego-Microgame
 
+
 <p align="center">
-<img src="https://github.com/RobbyJVC/TheEvilMachine-PS4-and-PC-Unity-Lego-Microgame/blob/main/20220618_085656_00164908.png"alt="html5" width="1028" />
+<img src="https://repository-images.githubusercontent.com/504713385/d2de6252-4e1a-4927-a455-4eabd58bfa17"alt="html5" width="128" />
  <p/>
 This is the result of a 2 weeks, around 3 hours a day, learning how the Unity Editor works, and how I might add console compatibility to the project.
 
@@ -31,6 +32,8 @@ Instructions:
 \TheEvilMachine-PS4-and-PC-Unity-Lego-Microgame-main\Assets\LEGO\Scenes\Microgame - The Evil Machine.unity
 ```
 
+ <p/>
+ <img src="https://github.com/RobbyJVC/TheEvilMachine-PS4-and-PC-Unity-Lego-Microgame/blob/main/20220618_085656_00164908.png"alt="html5" width="1028" />
 <hr>
 
 [2021 LEGO game challenge.](https://assetstore.unity.com/packages/templates/lego-microgame-179847)
